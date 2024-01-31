@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">&nbsp
-</div>
-
-<div align="center">
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">&nbsp
 </div>
 
