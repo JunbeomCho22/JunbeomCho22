@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![DevLogBase's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlogbase&show_icons=true)
+![JunbeomCho22's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junbeomcho22&show_icons=true&theme=tokyonight)
 
 </div>
