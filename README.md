@@ -28,6 +28,12 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
+<img src="https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/powerapps-742774?style=for-the-badge&logo=powerapps&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white">&nbsp
+</div>
+
+<div align="center">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp
 </div>
