@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">&nbsp
 </div>
 
+<br />
+
 <div align="center">
 <img src="https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/appservice-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">&nbsp
@@ -45,6 +47,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/dataverse-088142?style=for-the-badge&logo=dataverse&logoColor=white">&nbsp
 </div>
+
+<br />
 
 <div align="center">
 <img src="https://img.shields.io/badge/teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">&nbsp
