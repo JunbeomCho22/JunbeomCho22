@@ -28,6 +28,12 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">&nbsp
+</div>
+
+<div align="center">
 <img src="https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/appservice-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/azurefunctions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white">&nbsp
