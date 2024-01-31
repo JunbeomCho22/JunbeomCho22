@@ -29,11 +29,12 @@ Here are some ideas to get you started:
 
 <div align="center">
 <img src="https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">&nbsp
-<img src="https://img.shields.io/badge/webservice-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/appservice-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/azurefunctions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white">&nbsp
 </div>
 
 <div align="center">
+<img src="https://img.shields.io/badge/dynamics365-0B53CE?style=for-the-badge&logo=dynamics365&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/powerapps-742774?style=for-the-badge&logo=powerapps&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/dataverse-088142?style=for-the-badge&logo=dataverse&logoColor=white">&nbsp
