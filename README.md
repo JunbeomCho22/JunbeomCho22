@@ -27,11 +27,10 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=for-the-badge&logo=MSSQL&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">&nbsp
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp
 </div>
