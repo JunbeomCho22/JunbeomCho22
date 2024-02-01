@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/appservice-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/azurefunctions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white">&nbsp
-<img src="https://img.shields.io/badge/microsoft365-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white">&nbsp
 </div>
 
 <div align="center">
